@@ -4,7 +4,7 @@
 
 ## Overview
 
-In **Wack Attack**, players control ducks in a battle to be the last one alive. Each duck can move around the map and shoot at opponents. Players can upgrade their stats through a menu system and are rewarded with points for eliminating other ducks. The game features a login screen where user data, scores, and upgrades are saved in a database. Additionally, bombs spawn randomly on the map, destroying walls and providing life-saving floatation devices.
+In **Wack Attack**, players control ducks in a battle to be the last one alive. Each duck can move around the map and shoot at opponents. Players can upgrade their stats through a menu system and are rewarded with points for eliminating other ducks. The game features a login screen where user data, scores, and upgrades are saved in a database. Additionally, bombs spawn randomly on the map, destroying walls and providing life-saving floatation devices.The game also features background music and sound effects to enhance the gameplay experience.
 
 ## Key Features
 
@@ -16,6 +16,7 @@ In **Wack Attack**, players control ducks in a battle to be the last one alive. 
 ✔ **Movement and Shooting**: Use **WASD** to move and **Spacebar** to shoot.  
 ✔ **Bombs and Floatation Devices**: Bombs randomly spawn, destroying surrounding walls and providing life-saving floatation devices.  
 ✔ **Kill Rewards**: Players are rewarded with points for eliminating other ducks, which can be used for upgrades.  
+✔ Music and Sound Effects: Immersive background music and sound effects enhance the gameplay experience.  
 
 ## Game Controls
 
@@ -35,6 +36,9 @@ The goal of **Wack Attack** is to be the last duck alive. At the start of each g
 2. **CPR**: A C++ Requests library for HTTP requests.
 3. **nlohmann JSON**: A header-only library for JSON manipulation.
 4. **SDL2**: A cross-platform library used for graphics and input handling.
+   - **SDL_image**: For loading and handling images.
+   - **SDL_mixer**: For handling audio and sound effects.
+   - **SDL_ttf**: For rendering text using TrueType fonts.
 5. **SQLite**: Used for saving player data, scores, and upgrades.
 
 ### Clone or Download the Project
