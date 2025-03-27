@@ -12,7 +12,7 @@ In **Wack Attack**, players control ducks in a battle to be the last one alive. 
 ✔ **Upgrades**: Players can upgrade their bullet speed and reload speed by spending points earned through kills.  
 ✔ **Server-Client Architecture**: Built using **Crow** for the server, **CPR** for HTTP requests, **nlohmann JSON** for data handling, and **SDL2** for graphics.  
 ✔ **Max 4 Players**: Support for up to 4 players per match.  
-✔ **Login Screen**: Players can log in, and their scores and upgrades are saved to a database.If an account already exists, the data is retrieved automatically.
+✔ **Login Screen**: Players can log in, and their scores and upgrades are saved to a database.If an account already exists, the data is retrieved automatically.  
 ✔ **Movement and Shooting**: Use **WASD** to move and **Spacebar** to shoot.  
 ✔ **Bombs and Floatation Devices**: Bombs randomly spawn, destroying surrounding walls and providing life-saving floatation devices.  
 ✔ **Kill Rewards**: Players are rewarded with points for eliminating other ducks, which can be used for upgrades.  
