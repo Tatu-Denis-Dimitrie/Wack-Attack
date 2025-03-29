@@ -60,7 +60,7 @@ Start the server on your machine to handle player connections and manage game da
 
 ### Start the Game 🎮
 
-Run the game client and log in with your credentials.  
+Run the game client and log in with your own credentials.  
 Press **PLAY** (a minimum of 2 players to be ready is required).  
 Use **WASD** to move and **Spacebar** to shoot at other ducks.  
 Play the game and try to be the last duck standing! 🏆
