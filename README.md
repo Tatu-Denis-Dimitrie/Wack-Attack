@@ -75,7 +75,7 @@ Play the game and try to be the last duck standing! 🏆
 
 ## Contributing 🤝
 
-If you would like to contribute to **Wack Attack**, feel free to fork the repository, create a new branch, and submit a pull request. Whether it's fixing bugs, adding new features, or enhancing the game's performance, contributions are always welcome!  
+If you would like to contribute to **Wack Attack**, feel free to fork the repository, create a new branch, and submit a pull request. Whether it's fixing bugs, adding new features, or enhancing the game's overall performance, contributions are always welcome!  
 
 ## Acknowledgments 🎖️
 
